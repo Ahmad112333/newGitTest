@@ -3,5 +3,3 @@ FirsQ
 hi 
 hello
 hey
-Q
-
